@@ -1,11 +1,13 @@
-h1{
-    font-style:inherit;
-    font-size: large;
-    color: blue;
+color palette-heading{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: brown;
 }
-
+color-box{
+    padding: 30px;
+}
 p{
-    font-size: larger;
-    font-display: 10px;
-
+    color:aliceblue;
+    background-color: blue;
+    background-size: 50px;
 }
