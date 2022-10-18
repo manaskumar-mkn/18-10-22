@@ -1,0 +1,59 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizeing: border-box;
+}
+header{
+    background-color: brown;
+}
+li{
+    life-style:none;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+
+.navbar{
+    min-height:70px;
+    display: flex;
+    justify-content: space- between;
+    aligh-items: center;
+    padding : 0 24px;
+}
+.nav-menu{
+    display : flex;
+    justify-container: space-between;
+    align-item: center;
+    gap: 60px;
+
+}
+
+.nav-branding{
+    font-size: 2rem;
+}
+
+.nav-link{
+    transistion: 0.7s ease;
+}
+
+.nav-link:hover{
+    color:dodgerblue;
+}
+
+.hamburger{
+    display:none;
+    cur
+}
+
+.hamburger{
+    display: none;
+    cursor: po;
+}
+.bar{
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px;
+    
+}
